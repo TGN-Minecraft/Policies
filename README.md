@@ -1,9 +1,8 @@
 # The Rules
-RULES
 
 The Rules for the server is as follows…
 
-Section A: Chat Rules
+## Section A: Chat Rules
 
 Whilst communicating on our network using any of our services you must follow these rules…
 
@@ -19,7 +18,7 @@ Discord - You are not permitted to use any client that maybe modify discord or t
 The chat should be a calm, safe and positive environment, if anything disrupts the safe, calm and positive environment the user may be punished with or without warning.
 
 
-Section B: Gameplay Rules
+## Section B: Gameplay Rules
 
 The gameplay rules follows…
 
@@ -32,7 +31,7 @@ Spectator Rules - Whilst spectators are allowed to commentate and share their op
 
 Basically, Do not disadvantage the team you are on by sharing out tactful information, team griefing/spleefing and combat logging.
 
-Section C: Other Rules
+## Section C: Other Rules
 
 Client Modificators are strictly not permitted on our network however you may use the following at your own risk:
 
@@ -41,9 +40,9 @@ Optifine
 
 If a mod that you are using is not on this list, you will be banned with or without warning for any length of time. If you wish for your mod to be added please contact the owner of the server. 
 
-#Map Making
+# Map Making
 
-Our Map Policy
+# Our Map Policy
 
 When submitting your map to our network we have the right to revamp/edit, create variations/sequels of your map and/or remove your map from our rotations/repositories, at any time. We do not own the map, however, submitting your map grants us those rights. The map author reserves the right to veto any revamp/edits, variations & sequels, however they cannot veto a removal of their map from rotations. The map author reserves the right to request for their map to be taken down / removed from our rotations at any time and we shall remove the map from our rotations.
 
