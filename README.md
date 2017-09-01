@@ -42,7 +42,7 @@ If a mod that you are using is not on this list, you will be banned with or with
 
 # Map Making
 
-# Our Map Policy
+## Our Map Policy
 
 When submitting your map to our network we have the right to revamp/edit, create variations/sequels of your map and/or remove your map from our rotations/repositories, at any time. We do not own the map, however, submitting your map grants us those rights. The map author reserves the right to veto any revamp/edits, variations & sequels, however they cannot veto a removal of their map from rotations. The map author reserves the right to request for their map to be taken down / removed from our rotations at any time and we shall remove the map from our rotations.
 
